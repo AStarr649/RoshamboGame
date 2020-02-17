@@ -1,0 +1,9 @@
+C:\Users\starr\Desktop\C#\BigBangRoshambo\bin\Debug\BigBangRoshambo.exe.config
+C:\Users\starr\Desktop\C#\BigBangRoshambo\bin\Debug\BigBangRoshambo.exe
+C:\Users\starr\Desktop\C#\BigBangRoshambo\bin\Debug\BigBangRoshambo.pdb
+C:\Users\starr\Desktop\C#\BigBangRoshambo\obj\Debug\BigBangRoshambo.csprojAssemblyReference.cache
+C:\Users\starr\Desktop\C#\BigBangRoshambo\obj\Debug\BigBangRoshambo.Form1.resources
+C:\Users\starr\Desktop\C#\BigBangRoshambo\obj\Debug\BigBangRoshambo.Properties.Resources.resources
+C:\Users\starr\Desktop\C#\BigBangRoshambo\obj\Debug\BigBangRoshambo.csproj.GenerateResource.cache
+C:\Users\starr\Desktop\C#\BigBangRoshambo\obj\Debug\BigBangRoshambo.exe
+C:\Users\starr\Desktop\C#\BigBangRoshambo\obj\Debug\BigBangRoshambo.pdb
